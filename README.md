@@ -1,5 +1,3 @@
-~
-
 # Traffic signs classification with a convolutional network
 
 This is my attempt to tackle traffic signs classification problem with a convolutional neural network implemented in TensorFlow (reaching **99.33% accuracy**). The highlights of this solution would be data preprocessing, data augmentation, pre-training and skipping connections in the network.
